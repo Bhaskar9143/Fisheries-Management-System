@@ -1,0 +1,36 @@
+name: purefin
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+  flutter_local_notifications: ^6.0.0
+  flutter_localizations:
+    sdk: flutter
+  firebase_ui_auth: ^1.1.17
+  url_launcher: ^6.0.6
+  video_player: ^2.2.11
+  chewie: ^1.2.2
+  
+  
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/purefin.png
+    - assets/U.jpg
+    - assets/designq.jpg
+    - assets/k.jpg
